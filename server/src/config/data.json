@@ -1,0 +1,58 @@
+{
+    "currency": [
+        {
+            "name": "BTC",
+            "image": "",
+            "currencySymbol": "",
+            "type": "crypto"
+        }, {
+            "name": "ERC",
+            "image": "",
+            "currencySymbol": "",
+            "type": "crypto"
+        }, {
+            "name": "USDT",
+            "image": "",
+            "currencySymbol": "",
+            "type": "crypto"
+        }, {
+            "name": "KRW",
+            "image": "",
+            "currencySymbol": "",
+            "type": "fiat"
+        }
+    ],
+
+    "wallet": [
+        {
+            "currencyId": "6577a04ad37516367dc8829c",
+            "money": 1,
+            "balance": 0
+        }, {
+            "currencyId": "6577a04ad37516367dc8829d",
+            "money": 3,
+            "balance": 0
+        }, {
+            "currencyId": "6577a04ad37516367dc8829e",
+            "money": 400,
+            "balance": 0
+        }, {
+            "currencyId": "6577a04ad37516367dc8829f",
+            "money": 1000,
+            "balance": 1000
+        }
+    ],
+
+    "favorite": [
+        {
+            "customerId": "657947a0853dab65b66e95a5",
+            "gameId": "vs20olympx",
+            "type": "casino"
+        },
+        {
+            "customerId": "657947a0853dab65b66e95a6",
+            "gameId": "vs20olympx",
+            "type": "casino"
+        }
+    ]
+}
