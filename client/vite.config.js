@@ -11,9 +11,9 @@ export default defineConfig({
 	test: {
 		include: ['src/**/*.{test,spec}.{js,ts}']
 	},
-	// resolve: {
-	// 	alias: {
-	// 	  'imgs': fileURLToPath(new URL('./imgs', import.meta.url))
-	// 	}
-	//   }
+	resolve: {
+		alias: {
+		  'imgs': fileURLToPath(new URL('./imgs', import.meta.url))
+		}
+	  }
 });
